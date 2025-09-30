@@ -32,4 +32,4 @@
 
 ---
 
-⭐️ Feel free to check out my repositories and connect!
+⭐️ Feel free to check out my projects and connect!
