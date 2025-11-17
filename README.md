@@ -1,13 +1,13 @@
 # Hi there 👋, I'm Shanmukh
 
-🎓 Master's student | 💻 Software Developer (Ex-Barclays) | 🚀 Tech Enthusiast  
+🎓 Graduate Research Assistant | 💻 Software Developer (Ex-Barclays) | 🚀 Tech Enthusiast  
 
 ---
 
 ## 🔹 About Me
 - 👋 My name is **Shanmukha Venkata Naga Sai Tummala** and I'm a Computer Science student at **Concordia Univerity**.  
 - 💼 Previously worked as a Software Developer at **Barclays** before starting my master's.  
-- 📖 Currently working on my thesis in **Algorithmic Game Theory**.  
+- 📖 Currently working on my thesis on **Schelling Games (Game Theory)**.  
 - 🌱 Exploring **scalable system design** and **distributed architectures**.  
 - 🧑‍💻 Pronouns: He / Him
 
@@ -21,14 +21,58 @@
 
 ## 🔹 Skills & Tools
 
-### 💻 Programming & Testing
-<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Apache%20Camel-F80000?logo=apachecamel&logoColor=white" /> <img src="https://img.shields.io/badge/ApacheKafka-231F20?logo=apachekafka&logoColor=white" /> <img src="https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white" /> <img src="https://img.shields.io/badge/Cucumber-39C95F?logo=cucumber&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white" />
+### 💻 Languages  
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?logo=gnu-bash&logoColor=white" />
+</p>
 
-### ☁️ DevOps & Cloud
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Chef-8D2623?logo=chef&logoColor=white" /> <img src="https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=white" />
+### 🧩 Frameworks  
+<p>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Camel-F80000?logo=apachecamel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white" />
+</p>
 
-### 🗄️ Databases
-<img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+### 🛠️ Tools  
+<p>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Veracode-4A90E2?logo=veracode&logoColor=white" />
+  <img src="https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white" />
+  <img src="https://img.shields.io/badge/ServiceNow-6BB52D?logo=servicenow&logoColor=white" />
+</p>
+
+### 🗄️ Databases  
+<p>
+  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+</p>
+
+### ⚙️ DevOps  
+<p>
+  <img src="https://img.shields.io/badge/Bitbucket-2684FF?logo=bitbucket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+</p>
+
+### ☁️ Cloud  
+<p>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?logo=redhatopenshift&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+</p>
 
 ---
 
