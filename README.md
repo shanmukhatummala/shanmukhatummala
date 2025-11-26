@@ -8,7 +8,7 @@
 - 👋 My name is **Shanmukha Venkata Naga Sai Tummala** and I'm a Computer Science student at **Concordia Univerity**.  
 - 💼 Previously worked as a Software Developer at **Barclays** before starting my master's.  
 - 📖 Currently working on my thesis on **Schelling Games (Game Theory)**.  
-- 🌱 Exploring **scalable system design** and **distributed architectures**.  
+- 🌱 Interested in **scalable system design** and **distributed architectures**.  
 - 🧑‍💻 Pronouns: He / Him
 
 ---
