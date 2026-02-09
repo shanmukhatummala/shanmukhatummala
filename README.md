@@ -1,14 +1,14 @@
 # Hi there 👋, I'm Shanmukh
 
-🎓 Graduate Research Assistant | 💻 Software Developer (Ex-Barclays) | 🚀 Tech Enthusiast  
+💻 Software Developer (Ex-Barclays) | 🚀 Tech Enthusiast  
 
 ---
 
 ## 🔹 About Me
-- 👋 My name is **Shanmukha Venkata Naga Sai Tummala** and I'm a Computer Science student at **Concordia Univerity**.  
-- 💼 Previously worked as a Software Developer at **Barclays** before starting my master's.  
-- 📖 Currently working on my thesis on **Schelling Games (Game Theory)**.  
-- 🌱 Interested in **scalable system design** and **distributed architectures**.  
+- 👋 My name is **Shanmukha Venkata Naga Sai Tummala**.  
+- 📖 I hold an **MS in Computer Science** from Concordia University, with research focused on **Game Theory**.
+- 💼 Previously worked as a Software Developer at **Barclays**, gaining experience in building enterprise-grade applications.    
+- 🌱 Interested in **scalable system design**, **distributed architectures**, and solving complex analytical problems.
 - 🧑‍💻 Pronouns: He / Him
 
 ---
